@@ -19,3 +19,5 @@ training_out*
 trained_model.tar
 checkpoint*
 weights
+pub.sh
+.DS_Store
